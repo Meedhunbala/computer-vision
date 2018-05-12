@@ -7,6 +7,7 @@ utils - has some useful tools for opencv projects.
 1. Install required module.
    
    pip install -r requirements/development-requirements.txt
+   
    pip install .
 
 
